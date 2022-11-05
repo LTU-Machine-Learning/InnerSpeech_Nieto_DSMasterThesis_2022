@@ -1,4 +1,4 @@
-# DataScienceThesis
+# Inner speech detection using the dataset of Nieto et. al.
 
 This repository contains the work done for the Inner Speech Detection in EEG Brain Recordings Master thesis.
 
