@@ -7,6 +7,19 @@ Contains (will contain):
 2. Thesis Presentation
 3. Thesis document
 
+## Citing this work
+
+Please cite this work.
+```bibtex
+@article {innerSpeech,
+	author = {Valeria Buenrostro-Leiter, Fellipe Torquato Rollin, Foteini Simistira Liwicki, Vibha Gupta, Rajkumar Saini, Kanjar De},
+	title = {Brain Signal Analysis for Inner Speech detection},
+	year = {2022},
+	publisher = {Submitted to 7th HBP Student Conference on Interdisciplinary Brain Research}
+}
+
+```
+
 ## References
 https://github.com/N-Nieto/Inner_Speech_Dataset
 
